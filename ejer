@@ -13,11 +13,3 @@ class artefactos_valiosos:
 
 artefacto1= artefactos_valiosos(1,"reloj",350,"01/09/2023")
 artefacto2= artefactos_valiosos(3,"cuadro",500,"13/08/2024")
-
-fecha1="01/09/2023"
-fecha2="13/08/2024"
-if fecha1<fecha2:
-  print(artefacto1 "caduca antes")
-else:
-  print(artefacto2 "caduca antes")  
-
